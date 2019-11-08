@@ -1,0 +1,6 @@
+﻿  Employee.cpp
+  ex03_11.cpp
+c:\users\larry\source\repos\comp-2617-a00583216_assignment_01\ex03_11.cpp(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\larry\source\repos\comp-2617-a00583216_assignment_01\ex03_11.cpp(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Comp-2617-A00583216_Assignment_01.vcxproj -> C:\Users\larry\source\repos\Comp-2617-A00583216_Assignment_01\Debug\Comp-2617-A00583216_Assignment_01.exe
