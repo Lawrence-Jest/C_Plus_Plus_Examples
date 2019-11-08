@@ -1,0 +1,3 @@
+﻿  Fig_6_58.cpp
+c:\users\larry\desktop\c++ examples\comp_2617_a00583216_jest_assign_03\fig_6_58.cpp(54): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  COMP_2617_A00583216_Jest_Assign_03.vcxproj -> C:\Users\larry\Desktop\C++ examples\COMP_2617_A00583216_Jest_Assign_03\Debug\COMP_2617_A00583216_Jest_Assign_03.exe
