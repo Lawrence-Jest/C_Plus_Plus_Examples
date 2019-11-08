@@ -42,5 +42,5 @@ Lawrence Jest
 ## Authors
 
 * **Lawrence Jest** - *Initial work* - 
- **Bob Langelaan ** - *Instructor, Provided code to test run app or as a starting point* -
+* **Bob Langelaan** - *Instructor, Provided code to test run app or as a starting point* -
 
